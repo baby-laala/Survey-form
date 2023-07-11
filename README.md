@@ -37,10 +37,10 @@ Feel free to modify the form's HTML and CSS code to suit your needs. Add or remo
 
 Here are a couple of screenshots showcasing the survey form:
 
-![Screenshot 1](/images/screenshot1.png)
+![Screenshot 1](/screenshot1.jpeg)
 *Description of Screenshot 1*
 
-![Screenshot 2](/images/screenshot2.png)
+![Screenshot 2](/screenshot2.png)
 *Description of Screenshot 2*
 
 ## Contributing
